@@ -7,7 +7,8 @@ Bu proje, bir SVG animasyonu oluşturmak için JavaScript ve TweenMax kütüphan
 
 Bu proje, fare konumuna bağlı olarak iki gözün dönme animasyonu gerçekleştirilmiştir. Fare hareketi takip edilerek, gözlerin birbirine doğru dönmesi sağlanmıştır.
 
-<img width="1440" alt="image" src="https://github.com/YildizDikme/SVG-Animation-Mousemove/assets/103577317/8d66f6cb-512a-46a1-9a4d-788e1d18793c">
+![image](https://github.com/YildizDikme/SVG-Animation-Mousemove/assets/103577317/dde61078-aedd-4389-be16-43c12e88bd86)
+
 
 
 ## Kütüphaneler
@@ -54,7 +55,7 @@ Web siteleri, sade ve etkileyici bir tasarım anlayışını benimsemişlerdir. 
 
 Büyük yazı tipi boyutları da dikkat çeken bir trenddir. Bu, sadece başlık (H1) değil, aynı zamanda alt başlıklar (H2, H3) ve metinler için de geçerlidir. Büyük yazı tipi boyutları, önemli bilgilerin görsel olarak vurgulanmasını sağlar ve kullanıcılara daha iyi bir okuma deneyimi sunar.
 
-<img width="1440" alt="image" src="https://github.com/YildizDikme/SVG-Animation-Mousemove/assets/103577317/8daece6c-c3b8-434d-b70b-9ab99e3073a9">
+![image](https://github.com/YildizDikme/SVG-Animation-Mousemove/assets/103577317/db5efbf1-7ee0-4558-9fa8-2e3b2a01ae58)
 
 
 Projede, bu trendi temel alarak büyük yazı tipi boyutlarıyla temiz bir tasarım öne çıkarılmaya çalışıldı. Ayrıca, minimalist bir yaklaşım benimsenildi ve sadece gerekli olan bilgiler vurgulanıldı. Bu, kullanıcıların odaklanmasını kolaylaştırır ve karmaşık detaylardan arındırılmış bir deneyim sunar.
@@ -73,7 +74,7 @@ Animasyonlar, UI/UX'e katkı sağlar ve aşağıdaki faydaları sunar:
 
 Bu projede, animasyonları etkili bir şekilde kullanarak kullanıcı deneyimi iyileştirildi. Lottie animasyonları da kullanıldı. Lottie, Adobe After Effects veya Adobe Illustrator gibi tasarım araçlarında oluşturulan kompleks animasyonları web sitelerine kolayca entegre etmemizi sağlayan bir JSON formatıdır.
 
-<img width="1440" alt="image" src="https://github.com/YildizDikme/SVG-Animation-Mousemove/assets/103577317/78526f6b-6cf6-45b0-925a-0cc1ffc3944e">
+![image](https://github.com/YildizDikme/SVG-Animation-Mousemove/assets/103577317/d737a92e-fdb8-4c7b-966a-3bb91b42594c)
 
 Lottie animasyonlarını kullanmak, web sitemize hareket, canlılık ve görsel çekicilik katmamıza olanak sağlar. Animasyonları hızlı ve sorunsuz bir şekilde yükler ve kullanıcı deneyimini artırır.
 
